@@ -34,5 +34,4 @@ Console.Clear();
 int[] massiv = new int[8];
 FillArray(massiv);
 PrintArray(massiv);
-int result = CountChet(massiv); 
 Console.WriteLine("Число четных чисел в массиве = " + CountChet(massiv));
